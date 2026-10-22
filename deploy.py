@@ -10,7 +10,6 @@ from azure.ai.ml.entities import (
 )
 from azure.identity import DefaultAzureCredential
 
-
 # -----------------------------
 # Authenticate & Initialize Client
 # -----------------------------
