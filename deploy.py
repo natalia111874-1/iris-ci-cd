@@ -1,4 +1,3 @@
-
 import os
 
 from azure.ai.ml import MLClient
