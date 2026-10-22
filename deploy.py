@@ -1,5 +1,6 @@
 import os
 import uuid
+
 from azure.ai.ml import MLClient
 from azure.ai.ml.entities import (
     ManagedOnlineEndpoint,
